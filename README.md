@@ -1,3 +1,8 @@
+# 💫 Hi 👋, I am Shivam Kumar
+Email Me 👉 ✉️ **shivamkushwaha636@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+- 🌱 **I’m currently learning:** GenAI Using LangChain
+- 💬 **Ask me about:** Collaboration, Tech Support
+
 # 💫 About Me:
 I am an M.Tech Final year student at **IIT Roorkee** in **Applied Mathematics and Scientific Computing**.<br>I am currently working on a project titled as **Neural Network Approach To Epidemic Forecasting**.<br>**My Interests:** Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, Time Series Analysis, Mathematics, Statistics and Probability.
 
