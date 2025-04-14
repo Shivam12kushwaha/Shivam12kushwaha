@@ -17,7 +17,7 @@ I am an M.Tech Final year student at **IIT Roorkee** in **Applied Mathematics an
 
 # GitHub Profile 3D Contrib.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 <picture>
