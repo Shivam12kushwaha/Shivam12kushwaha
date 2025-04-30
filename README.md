@@ -1,3 +1,5 @@
+<img src="Grey Minimalist Linkedin Banner.png" alt="GitHub Banner" width="100%" />
+
 # Hi 👋, I am Shivam Kumar
 Email Me 👉 ✉️ **shivamkushwaha636@gmail.com** For Collaboration/Project or Anything Else.
 - 🌱 **I’m currently learning:** GenAI Using LangChain
