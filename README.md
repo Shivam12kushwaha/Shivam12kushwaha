@@ -2,7 +2,7 @@
 
 # Hi 👋, I am Shivam Kumar
 Email Me 👉 ✉️ **shivamkushwaha636@gmail.com** For Collaboration/Project or Anything Else.
-- 🌱 **I’m currently learning:** GenAI Using LangChain
+- 🌱 **I’m currently learning:** Vision-Language Models (VLMs) and their architecture.
 - 💬 **Ask me about:** Collaboration, Tech Support
 
 #  About Me:
