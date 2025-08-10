@@ -3,7 +3,7 @@
 # Hi 👋, I am Shivam Kumar
 Email Me 👉 ✉️ **shivamkushwaha636@gmail.com** For Collaboration/Project or Anything Else.
 - 🌱 **I’m currently learning:** Vision-Language Models (VLMs) and their architecture.
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Collaboration, Tech Support.
 
 #  About Me:
 I am a recent M.Tech graduate from **IIT Roorkee** in **Applied Mathematics and Scientific Computing**.<br>I have worked on a project titled as **Neural Network Approach To Epidemic Forecasting**.<br>I also have developed a **RAG** which automates the process of resume shortlisting.<br>**My Interests:** Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, Time Series Analysis, Mathematics, Statistics and Probability.
