@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **shivamkushwaha636@gmail.com** For Collaboration/Project o
 - 💬 **Ask me about:** Collaboration, Tech Support.
 
 #  About Me:
-I am an M.Tech graduate from **IIT Roorkee** in **Applied Mathematics and Scientific Computing**.<br>I have worked on a project titled as **Neural Network Approach To Epidemic Forecasting**.<br>I also have developed a **RAG** which automates the process of resume shortlisting.<br>**My Interests:** Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, RAGs, Computer Vision, AI for Healthcare, Time Series Analysis, Data Science and Analytics, Mathematics, Statistics and Probability.
+I am an M.Tech graduate from **IIT Roorkee** in **Applied Mathematics and Scientific Computing**.<br>I have worked on a project titled as **Neural Network Approach To Epidemic Forecasting**.<br>I also have developed a **RAG** which automates the process of resume shortlisting.<br>**My Interests:** Machine Learning, Deep Learning, Natural Language Processing, Large Language Models, Generative AI, RAGs, Computer Vision, AI for Healthcare, Time Series Analysis, Data Science and Analytics, Astrophysics, Space Simulation, Mathematics, Statistics and Probability.
 
 
 # 🌐 Socials:
